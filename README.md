@@ -48,11 +48,10 @@ Adds a Git tag for easier reference.
 Note:
 
 The script handles files with different extensions, but if you have files without extensions or with multiple dots in the name, read the docs in the script for the exact handling rules.
+
+
 👨‍💻 Author
 Maziar Khateri
-
-PhD in Medical Radiation Engineering
-
 Medical Imaging & Data Analysis | Git Enthusiast
 
 ⭐ If you find this useful, please consider starring the repo!
