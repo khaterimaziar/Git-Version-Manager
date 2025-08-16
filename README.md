@@ -1,5 +1,3 @@
-# Git-Version-Manager
-
 # 🚀 Git Version Manager
 
 A Bash script for simplified and organized version management in Git projects.  
